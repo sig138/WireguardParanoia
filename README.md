@@ -1,24 +1,23 @@
-#------------------------------------------------------------------------------
+
 # ALL-IN-ONE WIREGUARD SERVER + BLIND OPERATOR MODE + REMOTE LOCKOUT SCRIPT
-#
+
 # !! EXTREME DANGER !! EXTREME DANGER !! EXTREME DANGER !! EXTREME DANGER !!
-#
+
 # THIS SCRIPT WILL:
 # 1. Install WireGuard and configure it as a VPN server.
 # 2. Generate N client configurations.
 # 3. Install Jason Donenfeld's "blind-operator-mode".
 # 4. ATTEMPT TO REMOVE ALL STANDARD REMOTE MANAGEMENT (SSH, GETTY).
-#
+
 # YOU WILL LIKELY BE PERMANENTLY LOCKED OUT OF THIS SERVER VIA SSH/CONSOLE.
-#
+
 # "Blind Operator Mode" is described by its creator as "mostly snake-oil"
 # and a "toy". It is NOT a robust security solution.
-#
+
 # PROCEED WITH EXTREME CAUTION. YOU HAVE BEEN WARNED REPEATEDLY.
 # THIS SCRIPT IS FOR EDUCATIONAL/EXPERIMENTAL PURPOSES ONLY.
-#
+
 # DO NOT RUN THIS ON A PRODUCTION SERVER OR ANY SERVER YOU VALUE
 # UNLESS YOU FULLY UNDERSTAND THE CONSEQUENCES AND HAVE A RECOVERY PLAN
 # (WHICH LIKELY MEANS REINSTALLING THE OS).
-#
-#------------------------------------------------------------------------------
+
